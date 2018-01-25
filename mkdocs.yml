@@ -14,7 +14,7 @@ extra:
    #logo_name: "wiki"
   include_toc: yes
   extra_nav_links:
-     Git: https://github.com/hackerspace-nijmegen
+     Github: https://github.com/hackerspace-nijmegen
      Twitter: https://twitter.com/Hackerspace024
 
 pages:
