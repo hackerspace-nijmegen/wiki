@@ -12,4 +12,4 @@ or
  - wait for confirmation
  - `git clone wiki@wiki.hackerspacenijmegen.nl:wiki`
 
-then start editing away.
+then start contributing away.
