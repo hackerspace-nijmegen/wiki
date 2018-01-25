@@ -12,6 +12,8 @@ or
  - wait for confirmation
  - `git clone wiki@wiki.hackerspacenijmegen.nl:wiki`
 
-then start contributing away. and regularly tell other people: "it's a wiki"
+then start contributing away.
+
+don't forget regularly remind other people: "it's a wiki"
 
 thanks.
