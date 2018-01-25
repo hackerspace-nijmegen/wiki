@@ -9,3 +9,4 @@
 or
 
  - send your ssh public key to stef
+ - `git clone wiki@wiki.hackerspacenijmegen.nl:wiki`
