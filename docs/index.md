@@ -4,6 +4,7 @@
 
  - get an account on github
  - become a member of the hackerspace-nijmegen organization
+ - get invited to be a collaborator on the wiki project
 
 or
 
