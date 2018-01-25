@@ -11,3 +11,5 @@ or
  - send your ssh public key to stef
  - wait for confirmation
  - `git clone wiki@wiki.hackerspacenijmegen.nl:wiki`
+
+then start editing away.
