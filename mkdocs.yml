@@ -10,8 +10,8 @@ markdown_extensions:
   - codehilite
   - toc(permalink=true)
 extra:
-   #logo: img/logo256x128.png
-   #logo_name: "wiki"
+   logo: img/logo.jpg
+   logo_name: "hackerspace nijmegen"
   include_toc: yes
   extra_nav_links:
      Github: https://github.com/hackerspace-nijmegen
