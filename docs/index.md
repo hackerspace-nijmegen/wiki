@@ -2,12 +2,6 @@
 
 ## how to contribute to this wiki
 
- - get an account on github
- - become a member of the hackerspace-nijmegen organization
- - get invited to be a collaborator on the wiki project
-
-or
-
  - send your ssh public key to stef
  - wait for confirmation
  - `git clone wiki@wiki.hackerspacenijmegen.nl:wiki`
