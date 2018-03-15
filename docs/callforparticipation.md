@@ -6,7 +6,7 @@ Ben jij als hacker, maker, security specialist, kunstenaar of anderszins geïnte
 
 Kijk op hackerspaces.nl voor meer uitleg over wat een hackerspace is of op hackerspacenijmegen.nl voor meer info over deze nieuwe space. 
 
-Er is zicht op een ruimte, maar we hebben voor komende vrijdag nog een aantal extra deelnemers nodig om de kosten te kunnen dekken! Maandelijkse sponsoring zonder deelnemer te worden is natuurlijk ook welkom.
+Er is zicht op een ruimte, maar we hebben voor komende vrijdag (16 maart 2018) nog een aantal extra deelnemers nodig om de kosten te kunnen dekken! Maandelijkse sponsoring zonder deelnemer te worden is natuurlijk ook welkom.
 
 Hier zijn foto's van de ruimte die we willen huren:
 https://my.hidrive.com/share/cgbt10k7oi#$/ 
