@@ -20,3 +20,7 @@ extra:
 pages:
   - Home: 'index.md'
   - About: 'about.md'
+  - CFP: 'callforparticipation.md'
+  - 'Last Minutes': minutes/2018-1.md
+  - 'Space Opening': 'spaceopening.md
+
