@@ -49,11 +49,13 @@ considered least preferred without any order among these.
 
 if you want to help making this as easy as possible for us to evaluate, send
 the ranking as a json list of lists:
+```
    [ ['most prefered name1', 'similarly ranked #1 name'],
      ['2nd ranked name'],
      ['3rd ranked name'], 
      ....
      ['last ranked name']]
+```
 
 ### Publishing of Votes
 
