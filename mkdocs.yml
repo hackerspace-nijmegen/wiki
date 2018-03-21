@@ -21,7 +21,6 @@ pages:
   - Home: 'index.md'
   - About: 'about.md'
   - Minutes: 'minutes/minutes.md'
-    - '2018-03-20': 'minutes/2018-1.md'
   - CFP: 'callforparticipation.md'
   - 'Space Opening': 'spaceopening.md'
 
