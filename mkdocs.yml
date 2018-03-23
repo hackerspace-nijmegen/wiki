@@ -30,7 +30,7 @@ pages:
     - 'Looking For A Name': 'naming.md'
     - Wishlist: 'wishlist.md'
   - Projects:
-    - empty
+    - empty.md
   - Events:
-    - empty
+    - empty.md
 
