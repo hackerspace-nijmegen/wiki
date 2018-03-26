@@ -6,7 +6,7 @@ these are some notes from a meeting among Stf, Themba, Michiel, Ed & Joep (joine
 * **Stf** will get some club mate before the opening party.
 * **Stf** will write an email about the name of the space and explain the voting mechanism.
 * **Themba** will make a wishlist and publish it for others to add.
-AP[ed] will start a party-committee.
+* ***Ed*** will start a party-committee.
 
 ## Topics discussed
 ### 1. Club Mate:
