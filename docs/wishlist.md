@@ -15,6 +15,7 @@ Please add missing information. E.g., how many would be needed? put your name af
 * storage racks/shelves
 * big fat red flashing donation box
 * accent lighting and spot lighting (I believe we have tl in the ceiling for flood lighting?)
+* blinds or curtains
 
 
 #### Apparel
