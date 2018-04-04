@@ -33,5 +33,4 @@ pages:
   - Projects:
     - empty.md
   - Events:
-    - empty.md
-
+    - '2018/04/22 Open day': 'events/openday2018.md'
