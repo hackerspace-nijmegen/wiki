@@ -1,4 +1,85 @@
-# Looking For A Name
+# We Chose A Name
+
+latest email announcing the results:
+
+> the winner is:
+> https://github.com/hackerspace-nijmegen/hsnmgn-name-ballot/blob/master/result.txt#L1
+> 
+> drums:
+> 
+> Hackerspace Nijmegen
+> 
+> badumts!
+> 
+> for the rankings submitted and the script that evaluated this, check the repo:
+> https://github.com/hackerspace-nijmegen/hsnmgn-name-ballot
+> 
+> the Schulze method as been applied by using
+> https://github.com/bradbeattie/python-vote-core/
+> with the version marked by commit: 7791d72930e72aceea8b0f4bfe6baea7099aff84
+> 
+> in total we received 10 rankings, thanks to all who participated in this.
+> 
+> happy hacking,
+> s
+> 
+> ps: have fun today in the new space!
+
+## Looking For A Name
+
+email announcing the voting phase, closing the nomination phase:
+
+## Voting phase Info
+
+hey all,
+
+nomination phase is over since yesterday. 
+
+modified deadline for the voting phase is 3rd April 17:00 UTC+0200 
+
+(it was originally 3rd April 17:00 UTC+0100 but then stupid daylight savings
+came in)
+
+plesase look at this spreadsheet:
+https://ethercalc.org/554is070k6b2
+
+and create a ranking of your favorite names. either one name per line in order
+of *decreasing* preference, or as a json list of names in a similar order.
+then send it to me.
+
+you can do so until: 3rd April 17:00 UTC+0200
+
+for the evaluation of the votes we use the schulze method:
+(https://en.wikipedia.org/wiki/Schulze_method) as it is being used by projects
+such as the debian, gentoo, pirate party, fsfe and others.
+
+eligibility
+who is eligible for voting? anyone on the list of people contributing to our
+monthly costs, the mailing list and on our irc channel.
+
+ what is a ranking?
+> 
+> a ranking is an ordered list of names starting with the most preferred in
+> decreasing order of preference. you can also have multiple names at the same
+> preference, in this case write the names separated in one line. you do not
+> have to list all names from the ethercalc sheet, all omitted names are
+> considered least preferred without any order among these.
+> 
+> if you want to help making this as easy as possible for us to evaluate, send
+> the ranking as a json list of lists:
+>    [ ['most prefered name1', 'similarly ranked #1 name'],
+>      ['2nd ranked name'],
+>      ['3rd ranked name'], 
+>      ....
+>      ['last ranked name']]
+> 
+> we will publish all votes anonymously on the wiki, where you can verify that
+> your vote is included and that the schulze method has been applied correctly.
+
+happy hacking^Wvoting,
+s
+
+## Nomination Phase
 
 On Wed, Feb 07, 2018 at 05:09:41PM +0100, Hackerspace Nijmegen wrote:
 > [...snip...]
