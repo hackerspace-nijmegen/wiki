@@ -31,7 +31,6 @@ pages:
     - 'Looking For A Name': 'naming.md'
     - Wishlist: 'wishlist.md'
   - Projects:
-    - empty.md
     - 'Knitting Machine to laptop': 'projects/knittingmachine.md'
   - Events:
     - '2018/04/22 Open day': 'events/openday2018.md'
