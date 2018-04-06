@@ -32,5 +32,6 @@ pages:
     - Wishlist: 'wishlist.md'
   - Projects:
     - empty.md
+    - 'Knitting Machine' knittingmachine.md
   - Events:
     - '2018/04/22 Open day': 'events/openday2018.md'
