@@ -19,27 +19,25 @@ Please add missing information. E.g., how many would be needed? put your name af
 | spot lighting        |          |          |                     |
 | blinds or curtains   |          |          |                     |
 | nameplate            | 2        |          | for both front door and internal door? maybe wait a little to see if the logo is final |
+| coat hanger          | 1        |          | can be 3d printed?  |
 | toolboard            |          | michiel  | we'll use an old schoolboard with screws in it |
 | small ladder/steps   | 1        |          | to reach the ceiling |
 | **Apparel:**         |          |          |                     |
 | coffee machine       | 1        |          | we already have senseo |
 | pot for tea          | 1        |          |                     |
 | cups for the above   | 10       |          |                     |
-| cutlery              |          |          | maybe disposable is better since we have no sink |
+| disposable cutlery   |          |          | chack what we have already before buying |
 | labelwriter          | 1        |          |                     |
 | large flatscreen or beamer | 1  | sa007    | for presentations   |
 | music installation   |          |          | possibly using the digiboard? |
 | network cables       |          |          |                     |
 | digital locks        |          | sa007    | sa007 is making an inventory of what is possible/needed |
 | space telemetry      |          |          | open/closed status  |
-| spacecam             |          |          |                     |
 | space server         | 1        | cyberghost | for space telemetry, spacenet ldap, revbank, rfid door stuff will probably all require at least some on-site infrastructure |
-| 2d printer           | 1        | michiel  |                     |
 | soldering equipment  | 5        |          |                     |
-| scope/logic analyzer | 1        |          |                     |
+| logic analyzer       | 1        |          | old scope we have   |
 | tools                |          |          | hammer, hacksaw, pliers, calipers, etc. everying is welcome |
 | consumables          |          |          | resistors, transistors, leds, nodemcu's, arduino's, etc. |
-| vacuum cleaner       | 1        |          |                     |
 | power extension cords|          |          |                     |
 | co2 extinguisher     | 1        |          |                     |
 | clock                | 1        | themba   | a really cool wordclock |
