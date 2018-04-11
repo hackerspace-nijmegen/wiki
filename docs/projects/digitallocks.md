@@ -11,7 +11,8 @@ The hackerspace is likely to hand out a significantly larger number of keys than
 * revocability:
 an advantage of digital keys is that they can be revoked. It should be noted that we are already circulating a number of metal keys that will remain usable forever, so only access can be revoked from people who join later or who faithfully hand over all their metal keys once the digital locks are in place.
 
-
+* Anonymous access:
+this can be either a pro or a con. In some systems access is inherently anonymous or anonymized by the implementation. Keep in mind that anonymity is only guaranteed so far as you trust the impolementation and that there are other ways to identify you than by your key so it can be argued that we don't need to protect against attack vectors that are more complicated than putting a hidden camera somewhere.
 
 
 ## Description of the available options
@@ -36,8 +37,7 @@ This is an upgradable temporary solution that can be upgraded to ibuttons later 
 |----|----|----|----|----|----|
 | Fast to implement | immediate | several weeks | several weeks | unknown | few weeks |
 | Price             | low       | expensive     | expenses      | expensive? | intermediate |
-| Anonymity | high | not verifyable | not verifyable | verifyable | high |
-| untraceable | yes | yes | no | no | yes |
+| anonymous access | completely | as far as you trust impl. | as far as you trust impl. & admins | as far as you trust admins | completely |
 | key can be copied | yes | no | no | no | outside, and inside temporarily |
 | revokeable | no | yes | yes | yes | only inside |
 | trouble in case of persona non grata | high | low | low |low | medium |
