@@ -26,7 +26,7 @@ This includes keyreaders at 3 doors. Current cost estimation is 350 euros includ
 Logs of which key is used are kept for some time but not published. Also the mapping between key ids and real names is restricted to a small number of trusted admins. This data could even be encrypted such that only n out of m admins can access the data together.
 
 4. Digital locks with ring encryption (as proposal by stf):
-It is not clear how this technically works. Can this be done with iButtons or does it require special hardware? Is hardware and software needed for this available and how much would it cost? Editorial note: I looked it up: what stf proposed is an algorithm in which it is guaranteed that only the "master" can decode who got access but the "dumb doors" can check that permission should be granted without being able to identify the person (like checking a hash but more complicated). An evil Eve could completely take over the door system and not be able to tell who enters, only at what time the door was opened.
+It is not clear how this technically works. Can this be done with iButtons or does it require special hardware? Is hardware and software needed for this available and how much would it cost? 
 
 5. Metal keys for building, pincode lock on space door:
 This is an upgradable temporary solution that can be upgraded to ibuttons later and even later be extended to others doors without wasting too much resources (only the keypad). This would probably cost around 50 euros. The pincode can change so access to the space can effectively be revoked. Access is anonymous.
