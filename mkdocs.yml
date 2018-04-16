@@ -16,6 +16,7 @@ extra:
   extra_nav_links:
      Github: https://github.com/hackerspace-nijmegen
      Twitter: https://twitter.com/Hackerspace024
+     Opening hours: https://ethercalc.org/asl9nerzfima
 
 pages:
   - Home: 'index.md'
