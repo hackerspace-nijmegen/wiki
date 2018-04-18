@@ -3,6 +3,7 @@ docs_dir: docs
 site_description: Wiki For The Hackerspace Nijmegen
 copyright: 2018 (c) Hackerspace Nijmegen, CC-By-Sa 3.5
 theme: alabaster
+dev_addr: '127.0.0.1:9000'
 theme_dir: custom_theme
 site_dir: /var/www/wiki
 markdown_extensions:
