@@ -21,4 +21,4 @@ Hackerspace Nijmegen is a new (since april 2018) hackerspace where people with a
 
 During the open day you can walk in and out whenever you want. There will be people at least from 11 till 17. You can talk to us, see the projects we are working on, try some things yourself, and taste a Club Mate (our preferred caffeine source). There are numerous artist in the same building who also have open day on the same day:
 
-![EXPOOOST poster](http://www.hackerspacenijmegen.nl/wp-content/uploads/2018/04/Flyer1k-722x1024.jpg "Logo Title Text 1")
+![EXPO OOST poster](/img/Flyer_openday_2018.jpg "EXPOOOST poster")
