@@ -6,41 +6,43 @@ This is just a brainstorm, not all of these can be bought or donated, some need 
 
 Please add missing information. E.g., how many would be needed? put your name after the item if you can get one.
 
-#### Furniture
-* trashbin
-* Couches (3?)
-* workbench
-* working table (laptop height)
-* chairs for the above
-* storage racks/shelves
-* big fat red flashing donation box
-* accent lighting and spot lighting (I believe we have tl in the ceiling for flood lighting?)
-* blinds or curtains
 
-
-#### Apparel
-* fridge
-* coffee machine
-* kettle
-* cups for the above
-* microwave oven
-* large flatscreen or beamer for presentations
-* music installation
-* network switch and cabes
-* digital access control mechanism (key fobs, rfid reader and solenoid cylinder, the latter twice to access both doors?)
-* space telemetry (open/closed status, spacecam?)
-* space server. (for space telemetry, spacenet ldap, revbank, rfid door stuff will probably all require at least some on-site infrastructure)
-* 2d printer
-* soldering equipment
-* scope/logic analyzer
-* tools (hammer, hacksaw, pliers, calipers, etc.)
-* consumables (resistors, transistors, leds, nodemcu's, arduino's, etc.)
-* 
-
-#### Decorations
-* posters
-* stickers
-* character incresing hackery elements
-* plants? if we dare...
-* outward facing sign like an led-banner?
-* 
+| Item                 | Needed   | Who is working on it  | Note   |
+|----------------------|----------|----------|---------------------|
+| **Furniture:**       |          |          |                     |
+| trashbin             | 1        |          | large one, we have 3 small ones |
+| Couches              | 2        |          | we have one good one and one that smells of cigarettes |
+| workbenches          | 1        |          | we have one that needs to be raised a little |
+| working tables       |          | michiel  | Michiel has many options available, I think that is sufficient |
+| donation box         | 1        |          | big, fat, red, flashing |
+| accent lighting      |          |          | we have tl floodlight already |
+| spot lighting        |          |          |                     |
+| blinds or curtains   |          |          |                     |
+| nameplate            | 2        |          | for both front door and internal door? maybe wait a little to see if the logo is final |
+| coat hanger          | 1        |          | can be 3d printed?  |
+| toolboard            |          | michiel  | we'll use an old schoolboard with screws in it |
+| small ladder/steps   | 1        |          | to reach the ceiling |
+| **Apparel:**         |          |          |                     |
+| coffee machine       | 1        |          | we already have senseo |
+| pot for tea          | 1        |          |                     |
+| cups for the above   | 10       |          |                     |
+| disposable cutlery   |          |          | chack what we have already before buying |
+| labelwriter          | 1        |          |                     |
+| large flatscreen or beamer | 1  | sa007    | for presentations   |
+| music installation   |          |          | possibly using the digiboard? |
+| network cables       |          |          |                     |
+| digital locks        |          | sa007    | sa007 is making an inventory of what is possible/needed |
+| space telemetry      |          |          | open/closed status  |
+| space server         | 1        | cyberghost | for space telemetry, spacenet ldap, revbank, rfid door stuff will probably all require at least some on-site infrastructure |
+| soldering equipment  | 5        |          |                     |
+| logic analyzer       | 1        |          | old scope we have   |
+| tools                |          |          | hammer, hacksaw, pliers, calipers, etc. everying is welcome |
+| consumables          |          |          | resistors, transistors, leds, nodemcu's, arduino's, etc. |
+| power extension cords|          |          |                     |
+| co2 extinguisher     | 1        |          |                     |
+| clock                | 1        | themba   | a really cool wordclock |
+| **Decorations**      |          |          |                     |
+| posters              |          |          |                     |
+| character increasing hackery elements ||   |                     |
+| plants?              |          |          |                     |
+| outward facing sign  |          |          | like an led-banner? |

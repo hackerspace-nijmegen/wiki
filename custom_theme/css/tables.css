@@ -1,0 +1,7 @@
+table tr {
+  border-bottom: 1px solid gray;
+}
+
+tr:nth-child(2n) {
+    background: #ccc;
+}
