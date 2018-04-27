@@ -2,7 +2,7 @@
 
 By: ** Themba **
 
-When: Date: **April 4th 2018**  Time: **19:00**
+When: Date: **May 4th 2018**  Time: **19:00**
 
 Who: _add your name here or send an email to sjoerd.timmer@gmail.com_
 
