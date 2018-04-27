@@ -6,7 +6,7 @@ When: Date: **Friday May 4th 2018**  Time: **19:00**
 
 Who: _add your name here or send an email to sjoerd.timmer@gmail.com_
 
-* person
+* s
 * person
 * person
 
