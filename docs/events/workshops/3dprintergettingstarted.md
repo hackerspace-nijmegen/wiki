@@ -2,7 +2,7 @@
 
 By: ** Themba **
 
-When: Date: _TBD_  Time: _19:00_
+When: Date: **April 4th 2018**  Time: **19:00**
 
 Who: _add your name here or send an email to sjoerd.timmer@gmail.com_
 
@@ -11,6 +11,8 @@ Who: _add your name here or send an email to sjoerd.timmer@gmail.com_
 * person
 
 Where: ** the space (Elzenstraat 4A) **
+
+This workshop is primary intended for our regulars but external participants with an interest in 3d printer are welcome to join.
 
 Topic:
 The Ultimaker 2 3d-printer is a dangerous (and expensive) machine and, although it is relatively easy to operate and hard to damage, it should not be used without receiving proper instructions beforehand. The easiest way to receive those instructions is by following this workshop. The idea is that anyone who attended is not only capable of using the machine but can also educate others to do so. Let the knowledge spread!
