@@ -17,7 +17,7 @@ Where: ** the space (Elzenstraat 4A) **
 **Audience:** This workshop is primary intended for our regulars but external participants with an interest in 3d printer are welcome to join.
 
 **Prerequisites:**
-No knowledge is required. Please bring a laptop. Try to install [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) but don't worry if you cannot succeed before the workshop.
+No knowledge is required. Please bring a laptop. Try to install [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) (preferably version >3) but don't worry if you cannot succeed before the workshop. 
 
 **Topic:**
 The Ultimaker 2 3d-printer is a dangerous (and expensive) machine and, although it is relatively easy to operate and hard to damage, it should not be used without receiving proper instructions beforehand. The easiest way to receive those instructions is by following this workshop. The idea is that anyone who attended is not only capable of using the machine but can also educate others to do so. Let the knowledge spread!
