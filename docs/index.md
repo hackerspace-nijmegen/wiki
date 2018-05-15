@@ -11,7 +11,7 @@ then start contributing away.
 alternatively you might want to send PRs to our read-only github mirror:
 https://github.com/hackerspace-nijmegen/wiki - which can be merged manually by
 those who have sent ssh keys to stef. But note that this takes longer as
-manual processing is manual processin.
+manual processing is manual processing.
 
 don't forget regularly remind other people: "it's a wiki"
 
