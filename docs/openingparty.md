@@ -9,9 +9,9 @@ we'll have a Grand Opening party
 ## Programme
 
 * presentations? (add your/someone elses contribution)
-** Project PITCHFORK - stef
-** Sphinx passwords - stef
-** lockpicking 101 workshop - stef
+ * Project PITCHFORK - stef
+ * Sphinx passwords - stef
+ * lockpicking 101 workshop - stef
 * food in the evening
 * muzak?
 * movies?
