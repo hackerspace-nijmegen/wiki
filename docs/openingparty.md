@@ -15,7 +15,6 @@ we'll have a Grand Opening party
  * lockpicking 101 workshop - stef
 * food in the evening
 * muzak?
-* strippers?
 * movies?
 * party?
 
