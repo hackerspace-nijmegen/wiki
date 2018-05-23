@@ -20,8 +20,8 @@ extra:
      Opening hours: https://ethercalc.org/asl9nerzfima
 
 pages:
-  - Contact: 'contact.md'
   - Home: 'index.md'
+  - Contact: 'contact.md'
   - About: 'about.md'
   - 'Stichting Hackerspace Nijmegen':
     - Statuten: 'statuten.md'
