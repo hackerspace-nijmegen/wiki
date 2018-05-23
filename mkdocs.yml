@@ -20,6 +20,7 @@ extra:
      Opening hours: https://ethercalc.org/asl9nerzfima
 
 pages:
+  - Contact: 'contact.md'
   - Home: 'index.md'
   - About: 'about.md'
   - 'Stichting Hackerspace Nijmegen':
@@ -39,4 +40,3 @@ pages:
     - 'Opening party \o/': 'openingparty.md'
     - '2018/05/04 - Getting started with Ultimaker': 'events/workshops/3dprintergettingstarted.md'
     - '2018/04/22 - Open day': 'events/openday2018.md'
-
