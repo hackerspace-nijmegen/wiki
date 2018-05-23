@@ -3,7 +3,7 @@
 we'll have a Grand Opening party
 
 * Date: the 2nd of June, 2018.
-* Time: doors open at 10.00, oficial opening at 12:00, talks and events from 12 till 18, food at 18:00
+* Time: from 12:00, food at 18:00
 * Location: Elzenstraat 4a, Nijmegen
 * Registration: [https://tickets.hackerspacenijmegen.nl](https://tickets.hackerspacenijmegen.nl)
 
