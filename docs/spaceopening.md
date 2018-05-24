@@ -45,5 +45,5 @@ Saturday April 21st is then by far the most logical options for the opening part
 
 | Date              | Event         |
 |-------------------|---------------|
-| Saturday April 21 | Opening party |
+| Saturday April 21 | TBD           |
 | Sunday April 22   | Open day      |

@@ -21,4 +21,4 @@ we'll have a Grand Opening party
 
 
 ## Food
-food will be ordered (probably pizza or Chinese). Please let us know before 17:00 if you want to share in that. Costs will be about 10 euros. This can be done via the registration link above or in person on the day itself.
+food will be ordered (probably pizza or Chinese). Please let us know before ??? if you want to share in that. Costs will be about 10 euros. This can be done via the registration link above or in person on the day itself.
