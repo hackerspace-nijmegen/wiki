@@ -14,7 +14,7 @@ we'll have a Grand Opening party
  * Sphinx passwords - stef
  * lockpicking 101 workshop - stef
 * food in the evening
-* muzak?
+* muzak? DJ joostvb will bring some of his music
 * movies?
 * party?
 
