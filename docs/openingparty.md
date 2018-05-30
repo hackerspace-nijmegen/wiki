@@ -13,6 +13,8 @@ we'll have a Grand Opening party
  * Project PITCHFORK - stef
  * Sphinx passwords - stef
  * lockpicking 101 workshop - stef
+ * Using a Logic Analyzer with the Arduino - what can it do for you? - Rob
+ * 3D scanning - more than just making a 3D selfie - Rob
 * food in the evening
 * muzak? DJ joostvb will bring some of his music
 * movies?
