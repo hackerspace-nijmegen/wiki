@@ -15,6 +15,8 @@ we'll have a Grand Opening party
  * lockpicking 101 workshop - stef
  * Using a Logic Analyzer with the Arduino - what can it do for you? - Rob
  * 3D scanning - more than just making a 3D selfie - Rob
+ * other methods to make pcb's at home - themba
+ * v-plotter - themba/dlacko
 * food in the evening
 * muzak? DJ joostvb will bring some of his music
 * movies?
