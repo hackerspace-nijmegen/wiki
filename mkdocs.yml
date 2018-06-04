@@ -23,6 +23,7 @@ pages:
   - Home: 'index.md'
   - Contact: 'contact.md'
   - About: 'about.md'
+  - Contributing: 'contributing.md'
   - 'Stichting Hackerspace Nijmegen':
     - Statuten: 'statuten.md'
     - Minutes:
@@ -30,13 +31,13 @@ pages:
       - '2018-03-27': 'minutes/2018-2.md'
   - 'Elzenstraat 4a':
     - CFP: 'callforparticipation.md'
+    - Wishlist: 'wishlist.md'
     - 'Space Opening': 'spaceopening.md'
     - 'Looking For A Name': 'naming.md'
-    - Wishlist: 'wishlist.md'
   - Projects:
     - 'Knitting Machine to laptop': 'projects/knittingmachine.md'
     - 'Digital entrance': 'projects/digitallocks.md'
   - Events:
-    - 'Opening party \o/': 'openingparty.md'
+    - '2018/06/02 Opening party \o/': 'openingparty.md'
     - '2018/05/04 - Getting started with Ultimaker': 'events/workshops/3dprintergettingstarted.md'
     - '2018/04/22 - Open day': 'events/openday2018.md'
