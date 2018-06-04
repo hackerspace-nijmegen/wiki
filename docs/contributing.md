@@ -9,7 +9,7 @@ We have a monthly upkeep for operating the space, and everyone should
 share this burden equally. We also understand that we come from
 different social backgrounds with different economic resources
 available, thus we recommend everyone to pay 1/N (where N is the
-number of members) of the monthly upkeep, but we also accept that
+number of contributors) of the monthly upkeep, but we also accept that
 those with less means can pay less, but minimum half of 1/N, and those
 with more income pay more but maximum double of 1/N. In the end the
 only thing that matters is if we can pay the monthly rent, or not, in
@@ -20,18 +20,18 @@ interest to maintain it.
 
 We understand that getting a foothold in a meritocratic community is
 sometimes biased by factors outside of our influence. We acknowledge
-that there are social differences between our members, some have well
-paying jobs, others are students, others might be unemployed,
+that there are social differences between our contributors, some have
+well paying jobs, others are students, others might be unemployed,
 prefering to be socially responsible, or even activists, with much
 less income. We do not judge based on economic strength but based on
 how beneficial the contributions of an individual are towards the
 community and its standing in society.
 
-We thus allow contributors to become members and keyholders even if
-they cannot share the burden of the upkeep cost equally. We also
-believe that those who have more economic resources are happy to share
-the burden of those who have less, especially if those with less
-resources are respected and important members of our community.
+We thus allow contributors to keyholders even if they cannot share the
+burden of the upkeep cost equally. We also believe that those who have
+more economic resources are happy to share the burden of those who
+have less, especially if those with less resources are respected and
+important members of our community.
 
 ## Altruism
 
