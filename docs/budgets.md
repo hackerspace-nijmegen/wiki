@@ -21,7 +21,7 @@ infighting, while allowing to still collect and spend money on things.
 
 The main goal of the the Hackerspace Nijmegen Foundation is to focus
 on providing a physical location, by taking care of collecting
-contributions for the upkeep of it. Minimizing power or the budget of
+contributions for the upkeep of it. Minimizing power over the budget of
 the foundation makes it a servant of the community and not an
 authority over it.
 
