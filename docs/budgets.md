@@ -81,7 +81,7 @@ no space, and little community. This budget and the contract with the
 landlord is the reason for the existence of the foundation. It is the
 interest of everyone caring about the space, the budget is collected
 by the monthly contributions and governed by the principles laid out
-in [contributions](contributions). The monthly contributors are
+in [contributing](contributing). The monthly contributors are
 directly responsible for the sustainability of the space. If there is
 not enough contributors to pay for the essential upkeep costs then
 that implicitly means there is not enough interest/demand for a
