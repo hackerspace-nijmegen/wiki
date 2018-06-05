@@ -115,6 +115,12 @@ up. This budget should also be handled by the foundation.
   - Size: minimum 287EUR (one month cancellation fee), maximum 6-700 eur?
   - Purpose: emergencies
 
+It is important to note that this budget is not intended to cover up
+the case when there is not enough contributors to the monthly
+upkeep. That case is not an emergency, that case is a clear indicator
+that there is no demand at this cost to operate a hackerspace in
+Nijmegen.
+
 ### Fluctuation Smoothing Budget
 
 In case a monthly contribute fails to chip in their part for whatever
@@ -177,6 +183,10 @@ authority.
 
 Specific interest budgets should be handled separately from the
 monthly contributions for the upkeep as they are ad-hoc and optional.
+
+The monthly upkeep budget can be considered a special case of the
+Special Interest Budget. The community contributes to the very
+specific goal of paying the upkeep.
 
 ## Thanks
 
