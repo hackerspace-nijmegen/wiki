@@ -175,6 +175,9 @@ those committed to the goal for which the budget was setup, the
 foundation only provides a bank account and legal entity, no decision
 authority.
 
+Specific interest budgets should be handled separately from the
+monthly contributions for the upkeep as they are ad-hoc and optional.
+
 ## Thanks
 
 Thanks to themba, joostvb, sa007, ayke, raboof, mrngm, buzz, bugblue,
