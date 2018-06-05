@@ -144,6 +144,18 @@ in the space so that members who notice something needs replacement
 can quickly and unbureaucraticly replace what needs replacing. This
 budget can be filled up with the proceeds of the bar.
 
+### Continuity Budget
+
+In case we have to move out of the current place and only find
+something more expensive we could setup a budget to bridge the gap
+between the current and the new rent. This gives us a possibility to
+recruit more contributing members, and if we fail to make the new
+space sustainable we can decide to scale down again to something we
+can afford or to disband. This budget would be handled by the
+foundation. The size of this is up for debate, but should probably not
+be more than a few months of the current rent (which means we can
+operate at 2x the price for that amount of time).
+
 ## Specific Interest Budgets
 
 All other budgets that are not covered by the General Interest Budgets
