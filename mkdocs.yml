@@ -24,6 +24,7 @@ pages:
   - Contact: 'contact.md'
   - About: 'about.md'
   - Contributing: 'contributing.md'
+  - Budgets: 'budgets.md'
   - 'Stichting Hackerspace Nijmegen':
     - Statuten: 'statuten.md'
     - Minutes:
