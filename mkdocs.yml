@@ -38,6 +38,7 @@ pages:
   - Projects:
     - 'Knitting Machine to laptop': 'projects/knittingmachine.md'
     - 'Digital entrance': 'projects/digitallocks.md'
+    - 'Project ideas for large projects': 'projects/projectideas.md'
   - Events:
     - '2018/06/02 Opening party \o/': 'openingparty.md'
     - '2018/05/04 - Getting started with Ultimaker': 'events/workshops/3dprintergettingstarted.md'
