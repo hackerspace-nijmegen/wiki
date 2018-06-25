@@ -33,3 +33,32 @@ They don't have the quality of an occulus but it is certainly quite nice. One of
 Alternatively, we have to create hand-held controllers (could be as simle as a hand-held trigger, it could contain accelerometer+compas etc, or even a wiimote like setup (I've heard wiimotes are quite hacker friendly so we may even try to repurpose some)). Either connected to the usb port on your phone (most new androids have usb-otg that I believe could be used from inside an app but I don't know for sure) or via wifi.
 I think it would be great if we could "upgrade" an arcade classic like pacman, bomberman, space invaders or asteroids (imagine that one player steers the ship, another fires lasers and another does long range scanning or something like that) to the VR domain.
 There is also  "empty epsilon" (it's a bit obscure but I know the creator so we may be able to get support on that) which we could try to upgrade to VR. The big plus of that is that (for an open source game) there has been done relatively much work on fun missions to play. Imagine how cool something like that could be...
+
+
+### Drawing machine XXL
+
+extent our drawing machine to draw huge paintings/drawing on walls, as
+big as you can imagine them to be. For this we need to scale up the
+mechanical parts (motors, belts) and reinvent the drawing part (should
+be move to paintgun?).
+
+We could exploit the drawing machine for assignments of companies and
+governments, and for our own PR. One first deadline could be the weekend
+7-9 September for the Big Draw Nijmegen festival ([http://www.thebigdrawnijmegen.nl/](
+http://www.thebigdrawnijmegen.nl/)).
+
+
+
+### Graffiti-app
+
+With this app you could use your mobile device to put drawings and tags
+everywhere where the is a wall our a static object. The drawings you
+make/spray will be visible by others that use the app, and are tagged on
+a (openstreetmap) map so that other can find your piece of art. This app
+could develop to be a game, a art-exhibition or a social experiment.
+
+game-aspect: find a secret route with arrows, and hints marked on spot
+you can only access with the app. Will this be the next pokemon?
+
+art-exhibition: invite people to make a drawing somewhere, like real
+street-artist. After a while a city full of piece of art emerge.
