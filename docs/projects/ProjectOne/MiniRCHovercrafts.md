@@ -5,17 +5,19 @@ To get started, it was suggested that we start with one and we don't immediately
 
 So we first mock about a little with some quadcopter parts to get a better feeling for what is important when designing something smaller.
 
-If people want to get started I suggest to start with a v0.0 prototype that has only hover and no propulsion made out of cardboard/foam/mdf.
+If people want to get started I suggest to start with a v0.0 prototype that has only hover and no propulsion made out of cardboard/foam/mdf/whatever you can find.
 
 #### What you'll likely need to get lift-off:
 
 * board/mdf and a (manual/electric) jigsaw
 * plastic bag and sciccors to make a skirt
-* arduino to translate between receiver and motor controller(esc). I believe the former to output pulse-width-modulated signal and the latter to take pulse-density modulated signals. I believe that in theory the speed controller can be flashed to take pwm directly but I don't have a clue how.
+* arduino to translate between receiver and motor controller(esc). I believe the former to output pulse-width-modulated signal and the latter to take pulse-density modulated signals. I believe that in theory the speed controller can be flashed to take pwm directly but I don't have a clue how. An arduino inbetween has the added benefit that a low signal can be translated to a full-off which is not possible with a direct connection.
 
 #### Here are some more thoughts:
 
-* I suggest you use one of the spare mdf quadcoper arms to hold the motor in place. Simply hotglue that to a baseplate with a large hole. We can add something fancy later.
+* In the purple crate there are 4 spare (silver) motors. One of them has a bent shaft. look out for that one ;-) It is not in the same box as the three good ones. The quadcopter was not flying properly last time I used it. I believe that at least one of the red motors that are currently mounted on it has an issue too. The safe bet is to use one of the three silver motors from the cardboard box in the crate.
+* please be carefull with motors with props on them ;-) Always verify that they twist the way you expect before letting them spin with props or even nuts on them (i.e. such that the nut tightens itself and not loosens when rotating). If you spin a prop clockwise on a motor with normal clockwise thread the nut WILL come of and kill someone. The direction of fastening should always be the opposite of the direction the prop will spin. 
+* I suggest you use one of the mdf quadcoper arms to hold the motor in place. Simply hotglue that to a baseplate with a large hole. We can add something fancy later.
 * One of the things I've seen people do is to cut a propeller to a smaller diameter to get better results. You have my permission to cut some props if you believe this is needed.
 * The ESC (electronics speed controllers) are designed to feed logic level voltage (3.3 or 5V I don't remember) back to a microcontroller through the 3-pin input plug. orange wire is signal. They won't be damaged if more than one is feeding the microcontroller at the same time.
 * You have my permission to unsolder unneeded ESC's from the power distribution board.
