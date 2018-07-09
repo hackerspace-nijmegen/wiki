@@ -1,5 +1,29 @@
 # Mini RC Hovercrafts
 
+## Prototype notes:
+To get started, it was suggested that we start with one and we don't immediately go for miniature but rather try to get some experience first. Like: what are important design characteristics? Is the outer shape important? How much motor/airflow do you need? Does a regular rc propeller work or do you need something with lower speed and more air movement per rotation? Which factors influence stability? How does one make the skirt?
+
+So we first mock about a little with some quadcopter parts to get a better feeling for what is important when designing something smaller.
+
+If people want to get started I suggest to start with a v0.0 prototype that has only hover and no propulsion made out of cardboard/foam/mdf.
+
+#### What you'll likely need to get lift-off:
+
+* board/mdf and a (manual/electric) jigsaw
+* plastic bag and sciccors to make a skirt
+* arduino to translate between receiver and motor controller(esc). I believe the former to output pulse-width-modulated signal and the latter to take pulse-density modulated signals. I believe that in theory the speed controller can be flashed to take pwm directly but I don't have a clue how.
+
+#### Here are some more thoughts:
+
+* I suggest you use one of the spare mdf quadcoper arms to hold the motor in place. Simply hotglue that to a baseplate with a large hole. We can add something fancy later.
+* One of the things I've seen people do is to cut a propeller to a smaller diameter to get better results. You have my permission to cut some props if you believe this is needed.
+* The ESC (electronics speed controllers) are designed to feed logic level voltage (3.3 or 5V I don't remember) back to a microcontroller through the 3-pin input plug. orange wire is signal. They won't be damaged if more than one is feeding the microcontroller at the same time.
+* You have my permission to unsolder unneeded ESC's from the power distribution board.
+
+
+
+
+
 ## Basis idea
 Build miniature hovercrafts for racing around the space or outdoor depending on how small we can make them and how well they work. 
 
@@ -66,10 +90,7 @@ Problems will certainly arise, but RC hovercrafts are not new so it can be done.
 * programmer? depending on controller
 
 ## Skills needed
-A bit of everything. We need software, we need electronics, we need hardware. We could delve into radio-stuff if someone like to do that kind of stuff, but we can do with standard radio transmitters/rec
-
-
-eivers.
+A bit of everything. We need software, we need electronics, we need hardware. We could delve into radio-stuff if someone like to do that kind of stuff, but we can do with standard radio transmitters/receivers.
 
 
 ## How much time will this take
