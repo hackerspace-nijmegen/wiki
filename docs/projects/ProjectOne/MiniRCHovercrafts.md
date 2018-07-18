@@ -102,3 +102,11 @@ Let's aim to come up with a rough design in 1 or 2 weeks, have a one-off prototy
 ## Number of people involved
 This is really flexible. See sub-projects above. It would be nice to make sub-teams of 1-3 people, so I'd say anything between 2 and 10 is feasible.
 
+
+
+## Wild ideas
+### single propeller for everything
+
+With 2 servo's controlling "flaps" that release air from the propeller shroud it could be possible to steer the craft. (essentially making it a 2-servo-1-bldc instead of 2-blcd-1-servo operation). Note also how air escapes even in neutral position, such that lift is constant no matter what the steering is doing. 
+
+![hovercraft steering design](/img/hovercraft_steering.png "Hovecraft steering")
