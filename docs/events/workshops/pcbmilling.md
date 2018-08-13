@@ -12,7 +12,7 @@ Who: _add your name here or send an email to _
 ![me](/img/email.png "me")
 
 * themba
-* 
+* dsprenkels
 * 
 * 
 * 
@@ -26,6 +26,9 @@ Where: ** the space (Elzenstraat 4A) **
 
 **Adience:** 
 Anyone who is interested
+
+**Food:**
+Workshop starts at 19:00. If there is sufficient interest, food will be ordered to be delivered at 18:00. Deadline for food ordering is 16:00.
 
 **Prerequisites:**
 None. 
