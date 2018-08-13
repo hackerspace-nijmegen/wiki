@@ -43,7 +43,9 @@ pages:
       - 'projects/ProjectOne/proposals.md'
       - 'projects/ProjectOne/MiniRCHovercrafts.md'
       - 'projects/ProjectOne/planning.md'
+    - 'pcbmilling.md'
   - Events:
+    - '2018/09/07 printed circuit board milling': 'events/workshops/pcbmilling.md'
     - '2018/06/02 Opening party \o/': 'openingparty.md'
     - '2018/05/04 - Getting started with Ultimaker': 'events/workshops/3dprintergettingstarted.md'
     - '2018/04/22 - Open day': 'events/openday2018.md'
