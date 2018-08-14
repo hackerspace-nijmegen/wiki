@@ -4,17 +4,16 @@
 ![pcb2](/img/diy-soldermask.jpg "pcb2")
 
 
-By: ** Themba **
+**By:** Themba
 
-When: Date: **Friday September 7th, 2018**  Time: **19:00**
+**When:** Date: **Friday September 7th, 2018**  Time: **19:00**
 
-Who: _add your name here or send an email to _
-![me](/img/email.png "me")
+**Who:** (add your name here or send an email to ![me](/img/email.png "me"))
 
 * themba
 * dsprenkels
 * Sjors
-* 
+* hacker[m]
 * 
 * 
 * 
@@ -22,7 +21,7 @@ Who: _add your name here or send an email to _
 * 
 * 
 
-Where: ** the space (Elzenstraat 4A) **
+**Where:**  the space (Elzenstraat 4A) 
 
 **Adience:** 
 Anyone who is interested
