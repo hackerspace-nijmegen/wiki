@@ -16,7 +16,8 @@ I always use KiCad but any program that exports gerber should do. Here are some 
 * holes won't be plated. Of course, vias can be created with a short length of wire. Often it is possible to use component pins as vias. If you rely on a connection getting through at a component pin, make sure this component allows soldering from both sides. Most notably: pin headers cannot be soldered from the top. IC's and resisors are fine, but an led that must be mounted flush to the board cannot be soldered from the top.
 
 ## Isolation routing
-I use FlatCam (version 8.5) to turn the Gerber files into gcode. It offsets the ousides of all traces by half the tool diameter and takes care of lifting the tool when travelling. There are several steps involved. I moved my pcb in kicad to be located to the upper left of the origin (this is actually outside the drawing area) before exporting. I have not found a way yet to define the origin for export in kicad (the latest includes an option to set an origin but it is only used for gerber and drill files and not for the board cutout and solder masks so that makes life harder instead of easier). Alternatively you can translate all layers in FlatCam but that needs to be repeated manually for each layer and you cannot move by drag-and-drop but are limited to typing (dx,dy).
+I use FlatCam (version 8.5) to turn the Gerber files into gcode. It offsets the ousides of all traces by half the tool diameter and takes care of lifting the tool when travelling. There are several steps involved. I moved my pcb in kicad to be located to the upper left of the origin (this is actually outside the drawing area) before exporting. I have not found a way yet to define the origin for export in kicad (the latest includes an option to set an origin but it is only used for gerber and drill files and not for the board cutout and solder masks so that makes life harder instead of easier). Alternatively you can translate all layers in FlatCam but that needs to be repeated manually for each layer and you cannot move by drag-and-drop but are limited to typing (dx,dy). Update: there appears to be a better way to do this: if you draw the board outline as a polygon instead of lines it gets exported as a single outline in gerber and flatcam can create the required drill offset from that. That way you only need to export gerbers to flatcam and the aux axis becomes a nice tool.
+
 
 * I export the design as gerber + excellon drill file (for holes) + svg (for board outline) + pdf (for solder masks). If you want a simple rectangular board outline you don't need to export it, FlatCam has a cutout generator that can make it for you.
 * The idea of the FlatCAM user interface is that you have to double click the object in the Project pane to go to it's processing options. Depending on the type of object you'll get different options. 
@@ -52,16 +53,18 @@ I use Candle (version 1.1.8) to send the gcode to the mill.
 * use a multimeter to verify that everything is not connected is actually not connected. 
 
 ## Solder mask
-* Solder resist can be aplied. I used uv hardening solder resist from aliexpress that I selectively exposed using a uv exposure box and a pattern printed on overhead transparancies.
+* Solder resist can be aplied. I used uv hardening solder resist from aliexpress that I selectively exposed using a uv exposure box and a pattern printed on overhead transparancies. 
+* A preliminary experiments indicates that this works best if you apply the mask ink-down. apparantly the thinkness of the sheet is enough for the uv light to bleed sideways. This implies printing the front mirrored and the back non-mirrored. (If unsure: text on neither the front nor back should be readable on your print preview)
 * again, start by cleaning thoroughly. 
 * A small dot of solder resist was aplied to the print after carving and drilling. I have experimented with the order of things. Getting the unexposed solder mask out of holes is tedious so it would be better to do that before drilling holes. However, holes are usefull for aligning front and back. Maybe one or two holes can be drilled outside the board for alignment? Also: it is easier to spread out the paste before cutting out the board because once it hits the wall all paste goes out at that point. I have tried applying paste before cutting but that is also not ideal because the edge of the paste tears off during cutting. Maybe this can be resolved by clearing a few mm of paste from the edge by including the edge in the resist mask.
-* The solder mask paste is pushed out gently using a laser printed stencil. Then a glass plate is pushed on top to evenly  spread out until the whole surface is covered. The glass is removed and the pcb with the stencil was exposed to a uv ledstrip for 7 minutes.
+* The solder mask paste is pushed out gently using a laser printed stencil. Then a glass plate is pushed on top to evenly  spread out until the whole surface is covered. The glass is removed and the pcb with the stencil was exposed to a uv ledstrip for 6-7 minutes. Update: At first I thought the blue solder resist was not working so well but it just needs a little extra exposure time (I had good results with 7.30). 
 * After exposure you can carefully peel the laser printed stencil away. It should come off clean in the places where it was exposed. 
 * Remove the unexposed/liquid solder mask using water and an old toothbrush. You may have to push a drillbit through the holes to get them clean. The laser toner absorbs most light but not all so the stuff becomes a little sticky and thick in some places. After the majority of solder mask is cleaned up I finish the cleaning with a cotton pad with nailpolish remover. This should remove all solder mask from the pads.
-
+* Note: the solder mask needs to stay clear from the edge cuts because it will chip/tear when milled.
+* Note: Since there is no silkscreen technique yet it may be helpful to move some graphics/text to the soldermask layer. Text downto 1.5mm works. I have not yet experimented with smaller text but that is likely to fail.
 
 # Open experiments/issues:
 * try at lower spindle speed if you get less burring.
 * eliminate more backlash.
 * experiment with silkscreen techniques.
-* experiment with other tools for milling the board outline.
+
