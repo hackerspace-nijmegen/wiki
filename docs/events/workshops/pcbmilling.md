@@ -11,14 +11,13 @@
 **Who:** (add your name here or send an email to ![me](/img/email.png "me"))
 
 * themba
-* dsprenkels
 * Sjors
 * hacker[m]
 * Rob
 * Robert
 * Simon
 * thvdburg +1
-* 
+* Erik
 * 
 
 **Where:**  the space (Elzenstraat 4A) 
