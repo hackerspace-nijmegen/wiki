@@ -66,8 +66,8 @@ want to get a key, we have to trust you:
 How much is the monthly operating cost?
 
 ### Rent and Utilities
-Currently we pay €150 / month, but we have a discount which will
-expire in september after that our rent will be €220 / month.
+We had a discount in the 1st 6 months and paid only €150 / month.
+Currently our rent is €220 / month.
 
 For utilities we currently pay €137 / month.
 
@@ -79,8 +79,16 @@ We pay Triodos €8,50/month + [transaction cost](https://www.triodos.nl/nl/zake
 Currently we pay €45.38 (incl btw) per month.
 
 ### Total monthly upkeep
-Our current costs are €340.5 (rent+internet+bank)
+Our current costs are €410.5 (rent+internet+bank)
 
-But this will go up by 70 after september when our discount with SLAK
-expires for the rent, and will increase a bit with our insurance when
+But this will increase a bit with our insurance when
 we have one.
+
+## Payment info
+our bank account is:
+ - IBAN: NL15 TRIO 0379 2391 16
+ - BIC: TRIONL2U
+
+a more or less accurate listing of our members and their contributions is at:
+
+https://lite.framacalc.org/Elzenstraat-contribution
