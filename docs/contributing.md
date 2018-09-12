@@ -89,6 +89,8 @@ our bank account is:
  - IBAN: NL15 TRIO 0379 2391 16
  - BIC: TRIONL2U
 
+if you want to set up regular payments, they're best timed around the 20th of each month.
+
 a more or less accurate listing of our members and their contributions is at:
 
 https://lite.framacalc.org/Elzenstraat-contribution
