@@ -14,7 +14,7 @@
 
 **Where:**  the space (Elzenstraat 4A) 
 
-**Adience:** 
+**Audience:** 
 Anyone who is interested
 
 **Prerequisites:**
