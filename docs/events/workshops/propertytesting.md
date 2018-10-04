@@ -1,4 +1,4 @@
-# Invited speaker: Thrursday 11th of October: Property testing
+# Invited speaker: Thursday 11th of October: Property testing
 
 
 **By:** Nick van den Broeck
