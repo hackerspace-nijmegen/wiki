@@ -39,7 +39,7 @@ pages:
     - 'Knitting Machine to laptop': 'projects/knittingmachine.md'
     - 'Digital entrance': 'projects/digitallocks.md'
     - 'Music Player': 'projects/musicplayer.md'
-    - 'annoycaster': 'docs/projects/anonycaster.md'
+    - 'annoycaster': 'projects/anonycaster.md'
     - 'Community project/Project One':
       - 'projects/ProjectOne/index.md'
       - 'projects/ProjectOne/proposals.md'
