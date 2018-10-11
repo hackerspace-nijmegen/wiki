@@ -47,7 +47,7 @@ pages:
       - 'projects/ProjectOne/planning.md'
     - 'pcbmilling.md'
   - Events:
-    - '2018/10/11 property testing': 'events/workshops/propertytesting.md'
+    - 'CANCELLED property testing': 'events/workshops/propertytesting.md'
     - '2018/09/20 kicad 101': 'events/workshops/kicad101.md'
     - '2018/09/07 printed circuit board milling': 'events/workshops/pcbmilling.md'
     - '2018/06/02 Opening party \o/': 'openingparty.md'

@@ -1,9 +1,9 @@
-# Invited speaker: Thursday 11th of October: Property testing
+# Invited speaker: **CANCELLED**: Property testing
 
 
 **By:** Nick van den Broeck
 
-**When:** Date: **Thursday October 11th, 2018**  Time: **20:00**
+**When:** Date: **TBD**: **20:00**
 
 **Who:** Registration is not mandatory but you risk missing important announcements if you don't (if you want, add your name here or send an email to ![themba](/img/email.png "themba"))) 
 
