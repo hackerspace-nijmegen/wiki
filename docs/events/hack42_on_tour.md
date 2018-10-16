@@ -6,7 +6,6 @@ Of course also visiting Hackspace Nijmegen.
 * Date: 3 and 4 November, 2018.
 * Time: The entire weekend
 * Location: Elzenstraat 4a, Nijmegen
-* Registration: [https://tickets.hackerspacenijmegen.nl](https://tickets.hackerspacenijmegen.nl)
 * More info: Contact Hack42 or SA007.
 
 ## On Tour?
