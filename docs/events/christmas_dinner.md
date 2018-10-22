@@ -2,9 +2,9 @@
 
 Let's do christmas dinner!
 
-The idea is: everyone brings some dish(es) and we share everything. If everyone brings 1.5 person worth of calories that should work out more or less. Of course salads can be a little less. Also keep in mind that it would be nice if there is enough to make 10 to 15 reasonable sized portions so everyone can have at least one serving of each dish.
+The idea is: everyone brings some dishes/drinks and we share everything. If everyone brings 1.5 person worth of calories that should work out more or less. Of course salads can be a little less. Also keep in mind that it would be nice if there is enough to make 10 to 15 reasonable sized portions so everyone can have at least one serving/try of each dish.
 
-** When: Tuesday December 18th **
+** When: Tuesday December 18th at 19:00 **
 
 ## Who/what:
 Add your name or send an email to ![themba](/img/email.png "themba")):
@@ -16,6 +16,7 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | you?     | beer/whine (make sure to put in fridge before if needed)? |
 | you?     | turducken? |
 | you?     | salad? |
+| you ?    | soup? |
 | you?     | other side- and main dishes? |
 | you?     | deserts? |
 | you?     | |
