@@ -48,8 +48,13 @@ pages:
     - 'pcbmilling.md'
   - Events:
     - Upcoming:
+      - '2018/12/18 Hacker christmas dinner': 'events/christmas_dinner.md' 
       - '2018/11/04 Hack42 On Tour Visit': 'events/hack42_on_tour.md'
       - '2018/11/01 property testing': 'events/workshops/propertytesting.md'
+    - Recurring:
+      - 'organizer wanted: Hacker movie night': 'events/movienight.md'
+      - 'organizer wanted: CTF night': 'events/ctfnight.md'
+      - 'organizer wanted: boardgame night': 'events/boardgamenight.md'
     - Past:
       - '2018/09/20 kicad 101': 'events/workshops/kicad101.md'
       - '2018/09/07 printed circuit board milling': 'events/workshops/pcbmilling.md'
