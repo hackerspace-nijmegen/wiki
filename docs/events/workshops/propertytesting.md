@@ -3,7 +3,7 @@
 
 **By:** Nick van den Broeck
 
-**When:** Date: November 1st: **20:00**
+**When:** Date: November 1st: **21:00**
 
 **Who:** Registration is not mandatory but you risk missing important announcements if you don't (if you want, add your name here or send an email to ![themba](/img/email.png "themba"))) 
 
