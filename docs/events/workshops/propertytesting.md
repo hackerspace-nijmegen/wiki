@@ -1,4 +1,4 @@
-# Invited speaker: **CANCELLED**: Property testing
+# November 1st: Invited speaker: Property testing
 
 
 **By:** Nick van den Broeck
