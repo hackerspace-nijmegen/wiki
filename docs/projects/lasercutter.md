@@ -1,5 +1,4 @@
 # 40W Lasercutter
-![Lasercutter](https://matrix-irc.snt.utwente.nl/_matrix/media/v1/download/matrix.org/lflETgAFdauPvMSXqFtEyufG)
 
 ## Why is there suddenly a lasercutter
 It was donated to hackerspace nijmegen by hack42 during the [https://hack42.nl/wiki/Hack42_on_Tour](Hack42 on Tour) weekend.
@@ -13,6 +12,7 @@ That it should work as designed, but the design is horrid.
 
 ## What todo do with it
 In my (SA007) opinion the steps should be.
+
 - Verify the *'in working order'* claim
   - Make sure the 230V wiring is usable, i've seen it with a negligible amount or actual metal in the wires.
   - Connect the ground to the ground terminal of the power connector.
