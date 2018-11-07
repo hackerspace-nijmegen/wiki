@@ -38,6 +38,7 @@ pages:
   - Projects:
     - 'Knitting Machine to laptop': 'projects/knittingmachine.md'
     - 'Digital entrance': 'projects/digitallocks.md'
+    - '40W Lasercutter': 'projects/lasercutter.md'
     - 'Music Player': 'projects/musicplayer.md'
     - 'annoycaster': 'projects/anonycaster.md'
     - 'Community project/Project One':
