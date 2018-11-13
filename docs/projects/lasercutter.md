@@ -14,10 +14,10 @@ That it should work as designed, but the design is horrid.
 In my (SA007) opinion the steps should be.
 
 - Verify the *'in working order'* claim
-    - Make sure the 230V wiring is usable, i've seen it with a negligible amount or actual metal in the wires.
-    - Connect the ground to the ground terminal of the power connector.
-    - Make the cooling system work (pump, bucket, hoses, see if there are leaks and if the flow is usable.
-    - Power the laser up, put some wood under the head and hit test, it should burn the wood, if not, check the alignment.
+    - Make sure the 230V wiring is usable, i've seen it with a negligible amount or actual metal in the wires. (Done 12-11-18, wires aren't great but useable)
+    - Connect the ground to the ground terminal of the power connector. (Done 12-11-18, casing and HV supply are now grounded via the power connector)
+    - Make the cooling system work (pump, bucket, hoses, see if there are leaks and if the flow is usable. (In progress, there seems to be a blocked pipe)
+    - Power the laser up, put some wood under the head and hit test, it should burn the wood, if not, check the alignment. (Very short test done, tube isn't broken, yay)
     - Optional: Actually hook it up to an old windows pc and install the supplies software.
 - Add loads of safety's, there aren't any...
     - Switches on the covers, so it can't turn on the high voltage/laser if a cover is opened.
