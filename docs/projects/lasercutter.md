@@ -16,19 +16,20 @@ In my (SA007) opinion the steps should be.
 - Verify the *'in working order'* claim
     - Make sure the 230V wiring is usable, i've seen it with a negligible amount or actual metal in the wires. (Done 12-11-18, wires aren't great but useable)
     - Connect the ground to the ground terminal of the power connector. (Done 12-11-18, casing and HV supply are now grounded via the power connector)
-    - Make the cooling system work (pump, bucket, hoses, see if there are leaks and if the flow is usable. (In progress, there seems to be a blocked pipe)
+    - Make the cooling system work (pump, bucket, hoses, see if there are leaks and if the flow is usable). (In progress, there seems to be a blocked pipe) (13-11-18, pipe is unblocked, flow seems good, there is now some cleaner in it to remove crud)
     - Power the laser up, put some wood under the head and hit test, it should burn the wood, if not, check the alignment. (Very short test done, tube isn't broken, yay)
     - Optional: Actually hook it up to an old windows pc and install the supplies software.
 - Add loads of safety's, there aren't any...
     - Switches on the covers, so it can't turn on the high voltage/laser if a cover is opened.
     - Emergency stop switch.
-    - Covers for the bit holes in the casing (most are needed for alignment, but can have removable covers.
+    - Temperature/water flow sensors are also nice, also ordered.
+    - Covers for the bit holes in the casing (most are needed for alignment, but can have removable covers. (13-11-2018 In progress using ducktape'd alufoil, laser can't cut trough the alufoil)
     - Covers for the slits and gaps in the main/all covers (you should not be able to directly look into the laser bed, with exception of the window.
 - Replace electronics
-    - There are several options for the main electronics, such as smoothieboard (or clone), laos and several 3d-printerboard are usable as well. The one at hack42 is a laos one, from experience it is 'really meh' so I would pick something else.
-    - Replace a lot of the wiring.
+    - There are several options for the main electronics, such as smoothieboard (or clone), laos and several 3d-printerboard are usable as well. The one at hack42 is a laos one, from experience it is 'really meh' so I would pick something else (mks / smoothieboard clone and wires ordered by themba paid by crowdfunding).
+    - Replace a lot of the wiring. (12-11-2018 Not as much needed as expected)
     - Probably upgrade the endstops (more range, better accuracy)
-    - Add display?
+    - Add display? (Also ordered, not crowdfunded)
     - Add timer? (laser tubes have a limited life, you want to keep track and/or make people pay for usage)
 - Upgrade cooling
     - Keeping the tube cool is important.
