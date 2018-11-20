@@ -58,6 +58,8 @@ Ask SA007 on IRC/Mail/Whatever
 It will probably be around 200 euro to get parts such as replacement electronics, safety gear etc.
 
 Current costs:
+
+
 | Item                | Price (Paid by)  |
 |---------------------|------------------|
 | Lasercutter         | Free             |
@@ -66,11 +68,13 @@ Current costs:
 | EStop               | Free             |
 | Shielding materials | 11,50 (SA007)    |
 | Subtotal            | 76,27            |
+
+
 Currently funded: 50 euro.
 
 There is a donation box on top of the lasercutter.
 
-Looking for materials:
+## Looking for materials:
 - Clean watertight bucket with lid ~5/10 liter
 - Fridge compressor (anyone an old fridge thats going to be dumped?)
 - Air line for exhaust (80mm, with a way 'outdoors')
