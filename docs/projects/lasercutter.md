@@ -59,7 +59,7 @@ It will probably be around 200 euro to get parts such as replacement electronics
 
 Current costs:
 | Item                | Price (Paid by)  |
-| ---                 | ---              |
+|---------------------|------------------|
 | Lasercutter         | Free             |
 | Electronics         | 40,34 (Themba)   |
 | Display             | 24,43 (Themba)   |
@@ -71,10 +71,10 @@ Currently funded: 50 euro.
 There is a donation box on top of the lasercutter.
 
 Looking for materials:
-* Clean watertight bucket with lid ~5/10 liter
-* Fridge compressor (anyone an old fridge thats going to be dumped?)
-* Air line for exhaust (80mm, with a way 'outdoors')
-* Watercooling items (radiator+fans, hoses, pump etc)
+- Clean watertight bucket with lid ~5/10 liter
+- Fridge compressor (anyone an old fridge thats going to be dumped?)
+- Air line for exhaust (80mm, with a way 'outdoors')
+- Watercooling items (radiator+fans, hoses, pump etc)
 
 ## More specs?
 It is '40W' laser tube, more realisticly it is 30-35W it runs on really high voltage (~2kV).
