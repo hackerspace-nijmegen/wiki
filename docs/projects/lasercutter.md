@@ -21,7 +21,7 @@ In my (SA007) opinion the steps should be.
     - Optional: Actually hook it up to an old windows pc and install the supplies software.
 - Add loads of safety's, there aren't any...
     - Switches on the covers, so it can't turn on the high voltage/laser if a cover is opened.
-    - Emergency stop switch.
+    - Emergency stop switch. (SA007: Done 19-11-18)
     - Temperature/water flow sensors are also nice, also ordered.
     - Covers for the bit holes in the casing (most are needed for alignment, but can have removable covers. (13-11-2018 In progress using ducktape'd alufoil, laser can't cut trough the alufoil)
     - Covers for the slits and gaps in the main/all covers (you should not be able to directly look into the laser bed, with exception of the window.
@@ -57,6 +57,25 @@ Ask SA007 on IRC/Mail/Whatever
 ## Costs?
 It will probably be around 200 euro to get parts such as replacement electronics, safety gear etc.
 
+Current costs:
+| Item                | Price (Paid by)  |
+| ---                 | ---              |
+| Lasercutter         | Free             |
+| Electronics         | 40,34 (Themba)   |
+| Display             | 24,43 (Themba)   |
+| EStop               | Free             |
+| Shielding materials | 11,50 (SA007)    |
+| Subtotal            | 76,27            |
+Currently funded: 50 euro.
+
+There is a donation box on top of the lasercutter.
+
+Looking for materials:
+* Clean watertight bucket with lid ~5/10 liter
+* Fridge compressor (anyone an old fridge thats going to be dumped?)
+* Air line for exhaust (80mm, with a way 'outdoors')
+* Watercooling items (radiator+fans, hoses, pump etc)
+
 ## More specs?
 It is '40W' laser tube, more realisticly it is 30-35W it runs on really high voltage (~2kV).
 
@@ -70,3 +89,4 @@ It is a CO2 laser, they run at 10600nm, which is really really infrared.
 - Cookies -> Engrave Work fine, still eatable afterwards.
 - Chocolate/Sugary stuff engraves fine.
 - Wet foods -> No.
+
