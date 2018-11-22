@@ -8,7 +8,7 @@
 **Adience:**
 Anyone who is interested 
 
-**Topic:** I'm starting a series of 'workshoppy' lectures about intresting tech. 
+**Topic:** I'm starting a series of 'workshoppy' lectures about interesting tech. 
 
 Length is somewhere between 30minutes and an hour.  
 
