@@ -1,7 +1,7 @@
 # 40W Lasercutter
 
 ## Why is there suddenly a lasercutter
-It was donated to hackerspace nijmegen by hack42 during the [https://hack42.nl/wiki/Hack42_on_Tour](Hack42 on Tour) weekend.
+It was donated to hackerspace nijmegen by hack42 during the [Hack42 on Tour](https://hack42.nl/wiki/Hack42_on_Tour) weekend.
 
 Short backstory: A #42 member saved it from the dumpster, it was *'in working order'* but since this is a crappy old machine it was replaced.
 
@@ -64,10 +64,10 @@ Current costs:
 |---------------------|------------------|
 | Lasercutter         | Free             |
 | [Electronics](https://www.aliexpress.com/item/3D-Printer-Parts-Controller-Board-MKS-SBASE-V1-3-32-bit-Open-Source-Platform-Smoothieboard-Compatible/32853515280.html)         | 40,34 (Themba)   |
-| [https://www.aliexpress.com/item/3d-printing-touch-screen-RepRap-controller-panel-MKS-TFT28-V1-2-display-color-TFT-support-WIFI/32808421021.html](Display)             | 24,43 (Themba)   |
+| [Display](https://www.aliexpress.com/item/3d-printing-touch-screen-RepRap-controller-panel-MKS-TFT28-V1-2-display-color-TFT-support-WIFI/32808421021.html)             | 24,43 (Themba)   |
 | EStop               | Free             |
 | Shielding materials | 11,50 (SA007)    |
-| [https://www.groku.de/fileadmin/web/pdf/EZE5600_en.pdf](Bucket) | Free |
+| [Bucket](https://www.groku.de/fileadmin/web/pdf/EZE5600_en.pdf) | Free |
 | Subtotal            | 76,27            |
 
 
