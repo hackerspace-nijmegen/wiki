@@ -63,10 +63,11 @@ Current costs:
 | Item                | Price (Paid by)  |
 |---------------------|------------------|
 | Lasercutter         | Free             |
-| Electronics         | 40,34 (Themba)   |
-| Display             | 24,43 (Themba)   |
+| [https://www.aliexpress.com/item/3D-Printer-Parts-Controller-Board-MKS-SBASE-V1-3-32-bit-Open-Source-Platform-Smoothieboard-Compatible/32853515280.html](Electronics)         | 40,34 (Themba)   |
+| [https://www.aliexpress.com/item/3d-printing-touch-screen-RepRap-controller-panel-MKS-TFT28-V1-2-display-color-TFT-support-WIFI/32808421021.html](Display)             | 24,43 (Themba)   |
 | EStop               | Free             |
 | Shielding materials | 11,50 (SA007)    |
+| [https://www.groku.de/fileadmin/web/pdf/EZE5600_en.pdf](Bucket) | Free |
 | Subtotal            | 76,27            |
 
 
@@ -75,7 +76,6 @@ Currently funded: 50 euro.
 There is a donation box on top of the lasercutter.
 
 ## Looking for materials:
-- Clean watertight bucket with lid ~5/10 liter
 - Fridge compressor (anyone an old fridge thats going to be dumped?)
 - Air line for exhaust (80mm, with a way 'outdoors')
 - Watercooling items (radiator+fans, hoses, pump etc)
