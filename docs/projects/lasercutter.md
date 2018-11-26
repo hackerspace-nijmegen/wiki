@@ -63,7 +63,7 @@ Current costs:
 | Item                | Price (Paid by)  |
 |---------------------|------------------|
 | Lasercutter         | Free             |
-| [https://www.aliexpress.com/item/3D-Printer-Parts-Controller-Board-MKS-SBASE-V1-3-32-bit-Open-Source-Platform-Smoothieboard-Compatible/32853515280.html](Electronics)         | 40,34 (Themba)   |
+| [Electronics](https://www.aliexpress.com/item/3D-Printer-Parts-Controller-Board-MKS-SBASE-V1-3-32-bit-Open-Source-Platform-Smoothieboard-Compatible/32853515280.html)         | 40,34 (Themba)   |
 | [https://www.aliexpress.com/item/3d-printing-touch-screen-RepRap-controller-panel-MKS-TFT28-V1-2-display-color-TFT-support-WIFI/32808421021.html](Display)             | 24,43 (Themba)   |
 | EStop               | Free             |
 | Shielding materials | 11,50 (SA007)    |
