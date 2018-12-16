@@ -9,18 +9,20 @@ The idea is: everyone brings some dishes/drinks and we share everything. If ever
 ## Who/what:
 Add your name or send an email to ![themba](/img/email.png "themba")):
 
-| who      | what |
-| ---      | --- |
-| themba   | home-made christmas "stol" and ...TBD... |
-| you?     | gluhwein? |
-| you?     | beer/whine (make sure to put in fridge before if needed)? |
-| you?     | turducken? |
-| you?     | salad? |
-| you ?    | soup? |
-| you?     | other side- and main dishes? |
-| you?     | deserts? |
-| you?     | |
-| add more rows if needed...     | |
+| who                        | what                                 | note            |
+| ---                        | ---                                  | ---             |
+| themba                     | home-made christmas "stol" and salad |                 |
+| cyb3rgh0st                 | desert                               |                 |
+| michiel                    | (veg.) snert and ginger ale          |                 |
+| SA007                      |                                      |                 |
+| priseko                    | eggplant curry                       |                 |
+| joanna                     | gyros salad or polish dumplings      | arrive at 20:30 |
+| natalia                    |                                      | arrive at 20:30 |
+| Ed                         | pasta and soup                       |                 |
+| floris                     | see above                            |                 |
+| stf                        | wine                                 |                 |
+| viola                      |                                      |                 |
+| add more rows if needed... |                                      |                 |
 
 ## Food allergies:
 if you have any, please come forward
