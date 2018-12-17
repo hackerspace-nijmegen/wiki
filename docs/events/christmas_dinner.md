@@ -22,12 +22,10 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | floris                     | see above                            |                 |
 | stf                        | wine                                 |                 |
 | viola                      |                                      | gluten free     |
-| macguiverNL                |                                      |                 |
+| MacGyver                   |                                      |                 |
 | minnozz                    | quiche loraine                       |                 |
-| add more rows if needed... |                                      |                 |
 | walter                     |                                      |                 |
 | add more rows if needed... |                                      |                 |
->>>>>>> e435d3f6b8a8f7c9a5d20ebed3ec59cadf850670
 
 ## Food restrictions/allergies:
 if you have any, please come forward
