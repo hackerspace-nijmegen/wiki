@@ -18,14 +18,16 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | priseko                    | eggplant curry                       |                 |
 | joanna                     | gyros salad or polish dumplings      | arrive at 20:30 |
 | natalia                    |                                      | arrive at 20:30 |
-| Ed                         | pasta and soup                       |                 |
+| Ed                         | pasta and soup                       | veg.            |
 | floris                     | see above                            |                 |
 | stf                        | wine                                 |                 |
-| viola                      |                                      |                 |
+| viola                      |                                      | gluten free     |
 | macguiverNL                |                                      |                 |
 | minnozz                    | quiche loraine                       |                 |
 | add more rows if needed... |                                      |                 |
 | walter                     |                                      |                 |
+| add more rows if needed... |                                      |                 |
+>>>>>>> e435d3f6b8a8f7c9a5d20ebed3ec59cadf850670
 
 ## Food restrictions/allergies:
 if you have any, please come forward
