@@ -14,7 +14,7 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | themba                     | home-made christmas "stol" and salad |                 |
 | cyb3rgh0st                 | desert                               |                 |
 | michiel                    | (veg.) snert and ginger ale          |                 |
-| SA007                      |                                      |                 |
+| SA007                      | sushi                                |                 |
 | priseko                    | eggplant curry                       |                 |
 | joanna                     | gyros salad or polish dumplings      | arrive at 20:30 |
 | natalia                    |                                      | arrive at 20:30 |
@@ -22,10 +22,19 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | floris                     | see above                            |                 |
 | stf                        | wine                                 |                 |
 | viola                      |                                      |                 |
+| macguiverNL                |                                      |                 |
+| minnozz                    | quiche loraine                       |                 |
 | add more rows if needed... |                                      |                 |
+| walter                     |                                      |                 |
 
-## Food allergies:
+## Food restrictions/allergies:
 if you have any, please come forward
+
+Known so far:
+
+* gluten (1x)
+* meat (1x)
+
 
 
 ## Other notes:
