@@ -9,20 +9,23 @@ The idea is: everyone brings some dishes/drinks and we share everything. If ever
 ## Who/what:
 Add your name or send an email to ![themba](/img/email.png "themba")):
 
-| who                        | what                                 | note            |
-| ---                        | ---                                  | ---             |
-| themba                     | home-made christmas "stol" and salad |                 |
-| cyb3rgh0st                 | desert                               |                 |
-| michiel                    | (veg.) snert and ginger ale          |                 |
-| SA007                      |                                      |                 |
-| priseko                    | eggplant curry                       |                 |
-| joanna                     | gyros salad or polish dumplings      | arrive at 20:30 |
-| natalia                    |                                      | arrive at 20:30 |
-| Ed                         | pasta and soup                       |                 |
-| floris                     | see above                            |                 |
-| stf                        | wine                                 |                 |
-| viola                      |                                      |                 |
-| add more rows if needed... |                                      |                 |
+| who                        | what                                 | note             |
+| ---                        | ---                                  | ---              |
+| themba                     | home-made christmas "stol" and salad |                  |
+| cyb3rgh0st                 | desert                               |                  |
+| michiel                    | (veg.) snert and ginger ale          |                  |
+| SA007                      |                                      |                  |
+| priseko                    | eggplant curry                       |                  |
+| joanna                     | gyros salad or polish dumplings      | arrive at 20:30  |
+| natalia                    |                                      | arrive at 20:30  |
+| Ed                         | pasta and soup                       |                  |
+| floris                     | see above                            |                  |
+| stf                        | wine                                 |                  |
+| viola                      |                                      | gluten-free only |
+| viola                      |                                      | gluten-free only |
+| MacGyver                   |                                      |                  |
+| Minnozz                    | Quiche Lorraine                      |                  |
+| add more rows if needed... |                                      |                  |
 
 ## Food allergies:
 if you have any, please come forward
