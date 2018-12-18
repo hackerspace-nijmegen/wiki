@@ -24,7 +24,7 @@ Add your name or send an email to ![themba](/img/email.png "themba")):
 | viola                      |                                      | gluten free     |
 | MacGyver                   |                                      |                 |
 | minnozz                    | quiche loraine                       |                 |
-| walter                     |                                      |                 |
+| walter                     | icecream and crisps and gluhwein     |                 |
 | add more rows if needed... |                                      |                 |
 
 ## Food restrictions/allergies:
