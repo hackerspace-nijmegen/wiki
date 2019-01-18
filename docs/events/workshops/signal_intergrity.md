@@ -9,10 +9,12 @@
 Anyone who is interested 
 
 What is that about:
-- How do chips/devices talk to each other.
-- Common mistakes why things don't work.
-- Some explination about terms like pull-up/pull-down, open-collector etc.
-- Demo's about slew-rate, etc.
 
-Length is somewhere between 30minutes and an hour.  
+- How do chips/devices talk to each other.
+
+- Common mistakes why things don't work.
+
+- Some explination about terms like pull-up/pull-down, open-collector etc.
+
+- Demo's about slew-rate, etc.
 
